@@ -1,4 +1,4 @@
-package com.mobilithink.hello;
+package com.sqisland.android.hello;
 
 import android.app.Activity;
 import android.os.Bundle;
