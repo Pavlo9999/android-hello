@@ -8,7 +8,7 @@ android {
     applicationId 'com.sqisland.android.hello1'
     minSdkVersion 1
     targetSdkVersion 29
-    versionCode 2
+    versionCode 2.1
     versionName '1.0.3'
   }
 }
